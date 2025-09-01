@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "copper-gear-set-3sou5ypu",
+  "version": "1.0.0",
+  "name": "Copper Gear Set",
+  "description": "This mod adds a complete set of copper tools and armor that offers a balanced alternative to iron equipment. The copper gear provides significantly better durability than iron (lasting 30-60% longer) but with slightly reduced performance - tools mine a bit slower and armor provides less protection. All armor pieces can be right-clicked while held to automatically equip them to the appropriate slot, making it convenient to quickly gear up for adventures where longevity matters more than peak performance.",
+  "authors": [
+    "pig using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/copper-gear-set-3sou5ypu"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "copper_gear_set_3sou5ypu.CopperGearSet"
+    ],
+    "client": [
+      "copper_gear_set_3sou5ypu.CopperGearSetClient"
+    ]
+  },
+  "mixins": [
+    "copper_gear_set_3sou5ypu.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

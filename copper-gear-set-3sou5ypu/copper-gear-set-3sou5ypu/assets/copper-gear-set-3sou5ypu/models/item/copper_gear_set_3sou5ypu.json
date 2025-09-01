@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "copper-gear-set-3sou5ypu:item/copper_gear_set_3sou5ypu"
+  }
+}

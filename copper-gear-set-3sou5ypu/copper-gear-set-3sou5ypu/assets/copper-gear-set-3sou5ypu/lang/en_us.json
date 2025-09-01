@@ -1,0 +1,40 @@
+{
+  "item.copper-gear-set-3sou5ypu.copper_sword": "Copper Sword",
+  "item.copper-gear-set-3sou5ypu.copper_pickaxe": "Copper Pickaxe",
+  "item.copper-gear-set-3sou5ypu.copper_axe": "Copper Axe",
+  "item.copper-gear-set-3sou5ypu.copper_shovel": "Copper Shovel",
+  "item.copper-gear-set-3sou5ypu.copper_hoe": "Copper Hoe",
+  "item.copper-gear-set-3sou5ypu.copper_helmet": "Copper Helmet",
+  "item.copper-gear-set-3sou5ypu.copper_chestplate": "Copper Chestplate",
+  "item.copper-gear-set-3sou5ypu.copper_leggings": "Copper Leggings",
+  "item.copper-gear-set-3sou5ypu.copper_boots": "Copper Boots",
+
+  "item.copper_gear_set.sword.tooltip": "Durable copper blade, outlasts iron weapons",
+  "item.copper_gear_set.sword.tooltip.detail": "Lower damage than iron but 60% more durability. Perfect for extended combat.",
+
+  "item.copper_gear_set.pickaxe.tooltip": "Reliable mining tool with extended lifespan",
+  "item.copper_gear_set.pickaxe.tooltip.detail": "Mines at iron level but lasts much longer. Ideal for extensive mining expeditions.",
+
+  "item.copper_gear_set.axe.tooltip": "Sturdy woodcutting tool built to last",
+  "item.copper_gear_set.axe.tooltip.detail": "Chops wood effectively with superior durability compared to iron axes.",
+
+  "item.copper_gear_set.shovel.tooltip": "Dependable digging implement",
+  "item.copper_gear_set.shovel.tooltip.detail": "Perfect for earthwork projects requiring long-lasting tools.",
+
+  "item.copper_gear_set.hoe.tooltip": "Farming tool designed for endurance",
+  "item.copper_gear_set.hoe.tooltip.detail": "Tills soil reliably with enhanced durability for large-scale farming.",
+
+  "item.copper_gear_set.helmet.tooltip": "Protective headgear with lasting strength",
+  "item.copper_gear_set.helmet.tooltip.detail": "Slightly less protection than iron but 33% more durability for extended adventures.",
+
+  "item.copper_gear_set.chestplate.tooltip": "Robust chest protection built for endurance",
+  "item.copper_gear_set.chestplate.tooltip.detail": "Balanced defense with superior longevity compared to standard iron armor.",
+
+  "item.copper_gear_set.leggings.tooltip": "Durable leg armor for extended journeys",
+  "item.copper_gear_set.leggings.tooltip.detail": "Reliable protection that outlasts iron leggings in demanding conditions.",
+
+  "item.copper_gear_set.boots.tooltip": "Sturdy footwear for long expeditions",
+  "item.copper_gear_set.boots.tooltip.detail": "Enhanced durability makes these boots perfect for extensive exploration.",
+
+  "tooltip.copper_gear_set.hold_shift": "Hold ⇧ Shift for details"
+}

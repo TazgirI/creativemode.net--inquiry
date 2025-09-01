@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "joined_world": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "joined_world"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cool-blade-mcrgqej4:cool_blade_mcrgqej4_recipe"
+    ]
+  }
+}

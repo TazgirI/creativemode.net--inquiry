@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ancient_city_outlaw_igkv3ktp.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "ancient_city_outlaw_igkv3ktp.refmap.json",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

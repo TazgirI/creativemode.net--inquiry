@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cool-blade-mcrgqej4:item/cool_blade_mcrgqej4"
+  }
+}

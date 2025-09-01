@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "ancient-city-outlaw-igkv3ktp",
+  "version": "1",
+  "name": "Ancient City Outlaw",
+  "description": "The Ancient City Outlaw is a friendly bandit-like character that roams the world wearing dark, worn clothing and wielding a sword. This helpful ally will attack hostile monsters on sight to protect players, making dangerous areas much safer to explore. Players can interact with the outlaw to receive free ancient city themed treasures like echo shards, recovery compasses, sculk blocks, and enchanted books as a reward for their friendship.",
+  "authors": [
+    "pig using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/ancient-city-outlaw-igkv3ktp"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ancient_city_outlaw_igkv3ktp.AncientCityOutlaw"
+    ],
+    "client": [
+      "ancient_city_outlaw_igkv3ktp.AncientCityOutlawClient"
+    ],
+    "fabric-datagen": [
+      "ancient_city_outlaw_igkv3ktp.AncientCityOutlawDataGenerator"
+    ]
+  },
+  "mixins": [
+    "ancient_city_outlaw_igkv3ktp.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

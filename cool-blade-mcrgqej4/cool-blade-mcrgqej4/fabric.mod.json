@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "cool-blade-mcrgqej4",
+  "version": "1.0.0",
+  "name": "Cool Blade",
+  "description": "The Cool Blade is a powerful sword that deals devastating 20 attack damage to enemies, making it one of the most lethal weapons available. Simply equip it and attack enemies with left-click to unleash its incredible power. The blade glows with an enchanted aura, showcasing its masterful craftsmanship and deadly precision.",
+  "authors": [
+    "pig using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/cool-blade-mcrgqej4"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "assets/cool-blade-mcrgqej4/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cool_blade_mcrgqej4.CoolBlade"
+    ],
+    "client": [
+      "cool_blade_mcrgqej4.CoolBladeClient"
+    ]
+  },
+  "mixins": [
+    "cool_blade_mcrgqej4.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.5"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

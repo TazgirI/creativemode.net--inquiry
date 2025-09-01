@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ancient-city-outlaw-igkv3ktp:item/ancient_city_outlaw_igkv3ktp_spawn_egg"
+  }
+}

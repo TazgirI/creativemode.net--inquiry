@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cool_blade_mcrgqej4.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "cool_blade_mcrgqej4.refmap.json",
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
