@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "code-sheep-4cpekdst",
+  "version": "1",
+  "name": "Code Sheep",
+  "description": "The Code Sheep is a unique metallic sheep with a futuristic computer-like appearance that glows with soft electronic particles. Unlike regular sheep, this cybernetic creature cannot be sheared and makes subtle beeping sounds while it wanders around, occasionally digging up dirt blocks or placing them in new locations as if following programmed instructions. Watch as it performs various movements and actions in a pattern, creating an amusing robotic pet that brings a touch of technology to your Minecraft world.",
+  "authors": [
+    "pizza using CreativeMode.net"
+  ],
+  "contact": {
+    "homepage": "https://creativemode.net",
+    "sources": "https://creativemode.net/mod/code-sheep-4cpekdst"
+  },
+  "license": "ARR - CreativeMode.net/mod-license",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "code_sheep_4cpekdst.CodeSheep"
+    ],
+    "client": [
+      "code_sheep_4cpekdst.CodeSheepClient"
+    ],
+    "fabric-datagen": [
+      "code_sheep_4cpekdst.CodeSheepDataGenerator"
+    ]
+  },
+  "mixins": [
+    "code_sheep_4cpekdst.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

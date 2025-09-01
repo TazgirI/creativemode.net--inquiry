@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "code_sheep_4cpekdst/mixin/SheepEntityMixin": {
+      "isShearable": "Lnet/minecraft/class_1472;method_27072()Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "code_sheep_4cpekdst/mixin/SheepEntityMixin": {
+        "isShearable": "Lnet/minecraft/class_1472;method_27072()Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "code-sheep-4cpekdst:item/code_sheep_4cpekdst_spawn_egg"
+  }
+}

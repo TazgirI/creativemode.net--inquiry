@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "code_sheep_4cpekdst.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "code_sheep_4cpekdst.refmap.json",
+  "mixins": [
+    "SheepEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

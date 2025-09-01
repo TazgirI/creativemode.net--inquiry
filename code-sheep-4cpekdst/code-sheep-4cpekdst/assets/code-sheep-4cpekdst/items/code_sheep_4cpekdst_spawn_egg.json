@@ -1,0 +1,11 @@
+{
+    "model": {
+      "type": "model", 
+      "model": "code-sheep-4cpekdst:item/code_sheep_4cpekdst_spawn_egg" 
+    },
+    "egg": {
+      "base_color": "#B8C0C5", 
+      "pattern_color": "#4B6EAF", 
+      "spawn": "code-sheep-4cpekdst:code_sheep_4cpekdst" 
+    }
+  }
