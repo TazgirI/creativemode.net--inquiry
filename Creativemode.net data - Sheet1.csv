@@ -1,0 +1,37 @@
+"The following are a set of prompts chosen to test various complexities, request qualities and scope. 
+As all the mods were generated using the free welcome credits, multiple accounts were used.
+
+In the case of mob generations, they must declare a vanilla mob as their base, when you see ""Extension of ?:"", that is showing which mob base that prompt used.
+
+Link to repo with each mod and any other relevant files: https://github.com/TazgirI/creativemode.net--inquiry
+Link to live version of this doc: Creativemode.net data",,,,
+,,,,
+,,,,
+Prompt,Date/Time of Gen in BST,Time Taken to Gen,Result File Path from Repo Root,Notes
+A sword that deals 20 damage and looks cool.,,,,
+Extension of villager: Make me something similiar to a wandering trader but it will attack nearby hostile mobs with a sword and sells ancient city themed loot.,,,,
+Make me a full set of copper tools/armour thats worse than iron but with more durability,,,,
+add soup from end crystals and you explode when you eat it and it makes dragon breath,,,,
+"Create a simple weapon called ""The poisoned dagger"" with an attack speed of 2.2, a damage of 4 and a durability of 64. 
+
+When a living entity that isn't an instance of a Zombie is struck by the dagger using a regular attack, they are given the poison status effect for 100 ticks with an amplifier of 1.
+
+When a living entity that isn't an instance of a Zombie is struck by the dagger using a critical attack, if the target is already poisoned then that poison effect is amplified by 1 level and reapplied for 150 ticks.
+
+
+If the target is an instance of a Zombie, they are instead given instant damage with an amplifier of 2 with the intention of healing them. 
+
+
+It should be crafted with the following grid where S = stick, II = iron_ingot, NW = nether+wart, BP = blaze_powder and SE = spider_eye:
+
+NW II NW
+SE II SE
+BP S BP",,,,
+Extension of zombie: Make me a mob that functions similiar to the soon to be added copper golem but evil. Instead of sorting your items it will randomly remove items from your chests and place them in other nearby chests. It should spawn randomly when a player opens a chest.,,,,
+Extension of allay: a really small allay that has yellow and black colours like a firefly and floats around aesthetically. frogs will try and eat it if it gets too close.,,,,
+"Extension of magma cube: Somethign that looks like a dirt block and hops around leaving a trail of dirt blocks that it doesn't get stuck on, if it touches water it dies and leaves behind a handful of mud blocks where it was.",,,,
+"Create a UI that appears alongside the regular inventory and displays every currently registered item. If the player hovers over an item and presses R, they should be shown every craftign recipe that produces that item. If the player presses U, they should be shown every recipe that uses that item as an ingredient.",,,,
+Extension of ender dragon: Please make a giant fire breathing dragon that flys around destroying things with fire. It should not break blocks when it flies through them like the ender dragon does. Instead it should just reign in-descriminate destruction with fire and fireballs.,,,,
+the power armor from Fallout. It should use nuclear waste as a power source and give you infinite strength night vision and resistance while charged. If out of charge you have lots of slowness and weakness and blindness. while wearing the full suit the player can fire the gun in their arm that shoots 50mm bullets and does 10 hearts per shot. nuclear waste should also be makable into radaway and stimpacks which cant be used while wearing the armour. while wearing the armour the player can't get hungry or tiered. the player should also be bigger in the armor as the armor is very big.,,,,
+"Make some pipe blocks that act similiar to hoppers, if they are placed below a block with inventory it will act as an ""entry point"" to pull the items out and transfer them to the closest ""exit point"" in the ""pipe network"" which is any pipe attached to the the side or top of a block with an inventory. ""pipe network"" refers to all pipe blocks connected to each other as one continuous series of pipes. If there is no exit point in the network then entry points will not remove items from the block above them.",,,,
+"If a player uses a bed without eating first the bed should explode with the death message ""you can't sleep if you're hungry""",,,,
